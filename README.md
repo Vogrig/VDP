@@ -39,7 +39,7 @@ The graphical user interface (GUI) is made using dat.GUI: A lightweight graphica
 # References:
  - VanDerPol (https://en.wikipedia.org/wiki/Van_der_Pol_oscillator)
  - Fortran Implementation (http://www.phy.mtu.edu/~suits/PH3110/vderpol.pdf)
- - little red computer (http://blog.littleredcomputer.net/math/odex/js/2016/04/20/van-der-pol.html)
+ - odex (http://blog.littleredcomputer.net/math/odex/js/2016/04/20/van-der-pol.html)
  - Web audio API (https://www.w3.org/TR/webaudio/)
  - Stereo analyzer (https://www.npmjs.com/package/stereo-analyser-node)
  - dat.GUI (https://github.com/dataarts/dat.gui)
