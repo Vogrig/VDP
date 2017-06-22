@@ -2,6 +2,8 @@
 
 http://andreavogrig.com/vdp/
 
+tested with Google Crome
+
 Javascript implementation of a driven coupled Van Der Pol oscillator using Web Audio API.
 
 In dynamics, the Van Der Pol oscillator is a non-conservative oscillator with non-linear damping. It evolves in time according to the following second-order differential equations:
