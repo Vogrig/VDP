@@ -1,6 +1,6 @@
 # VDP
 
-https://andreavogrig/vdp/
+http://andreavogrig.com/vdp/
 
 Javascript implementation of a driven coupled Van Der Pol oscillator using Web Audio API.
 
