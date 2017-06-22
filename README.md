@@ -2,7 +2,7 @@
 
 http://andreavogrig.com/vdp/
 
-tested with Google Crome
+tested with Google Chrome
 
 Javascript implementation of a driven coupled Van Der Pol oscillator using Web Audio API.
 
